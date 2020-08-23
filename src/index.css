@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Quicksand:wght@400;700&display=swap');
+/* 'Quicksand' 'Black Ops One' */
+
+html {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
